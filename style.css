@@ -1,0 +1,26 @@
+.first-title {
+    color: rgb(0, 225, 255);
+}
+
+* {
+    font-size: 20px;
+}
+
+#WEBSITE-link {
+    color: rgb(165, 107, 107); 
+}
+
+h1 {
+    color:rgb(27, 32, 36);
+}
+
+h2 {
+    color:darkslategrey
+}
+
+div {
+    background: rgb(69, 66, 105);
+    color: rgb(255, 255, 255);
+    width: 300px;
+    padding: 20px
+}
