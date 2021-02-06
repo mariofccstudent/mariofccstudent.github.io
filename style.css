@@ -14,10 +14,8 @@ button {
   color: rgb(227, 238, 130);
   font-size: 1rem;
   border-radius: 1rem;
-}
-div {
-  background: rgb(11, 184, 184);
-  color: white;
+.box {
+  background-image: url(..img/Site.jpg);
 }
 html {
   font-size: 62.5;
