@@ -1,3 +1,4 @@
+
 h1 {
   color: rgb(32, 107, 129);
 }
@@ -13,10 +14,15 @@ button {
   border: 0.3rem solid rgb(47, 248, 255);
   color: rgb(227, 238, 130);
   font-size: 1rem;
-  border-radius: 1rem;
-.box {
-  background-image: url(..img/Site.jpg);
-}
+  border-radius: 1rem;}
+
 html {
   font-size: 62.5;
 }
+
+<style>
+body {
+    background-image: url(/mariofccstudent.github.io/Site.jpg);
+}
+
+</style>
