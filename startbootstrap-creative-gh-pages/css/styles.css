@@ -64,7 +64,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
+  color: #212829;
   text-align: left;
   background-color: #fff;
 }
@@ -468,7 +468,7 @@ mark,
 .blockquote-footer {
   display: block;
   font-size: 80%;
-  color: #6c7d7c;
+  color: #6c7d79;
 }
 .blockquote-footer::before {
   content: "— ";
@@ -5183,35 +5183,35 @@ a.badge-dark:focus, a.badge-dark.focus {
 }
 
 .list-group-item-primary {
-  color: #7f331e;
+  color: #1e7c7f;
   background-color: #fcd3c8;
 }
 .list-group-item-primary.list-group-item-action:hover, .list-group-item-primary.list-group-item-action:focus {
-  color: #7f331e;
-  background-color: #fbc0b0;
+  color: #1e7f72;
+  background-color: #b2fbb0;
 }
 .list-group-item-primary.list-group-item-action.active {
-  color: #fff;
-  background-color: #7f331e;
+  color: rgb(255, 255, 255);
+  background-color: #1e797f;
   border-color: #7f331e;
 }
 
 .list-group-item-secondary {
   color: #383d41;
-  background-color: #d6d8db;
+  background-color: #d6dbda;
 }
 .list-group-item-secondary.list-group-item-action:hover, .list-group-item-secondary.list-group-item-action:focus {
   color: #383d41;
   background-color: #c8cbcf;
 }
 .list-group-item-secondary.list-group-item-action.active {
-  color: #fff;
+  color: rgb(255, 255, 255);
   background-color: #383d41;
   border-color: #383d41;
 }
 
 .list-group-item-success {
-  color: #155724;
+  color: #574d15;
   background-color: #c3e6cb;
 }
 .list-group-item-success.list-group-item-action:hover, .list-group-item-success.list-group-item-action:focus {
@@ -5219,7 +5219,7 @@ a.badge-dark:focus, a.badge-dark.focus {
   background-color: #b1dfbb;
 }
 .list-group-item-success.list-group-item-action.active {
-  color: #fff;
+  color: rgb(255, 255, 255);
   background-color: #155724;
   border-color: #155724;
 }
@@ -5233,7 +5233,7 @@ a.badge-dark:focus, a.badge-dark.focus {
   background-color: #abdde5;
 }
 .list-group-item-info.list-group-item-action.active {
-  color: #fff;
+  color: rgb(255, 255, 255);
   background-color: #0c5460;
   border-color: #0c5460;
 }
