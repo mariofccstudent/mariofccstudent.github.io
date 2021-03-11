@@ -66,7 +66,7 @@ body {
   line-height: 1.5;
   color: #212925;
   text-align: left;
-  background-color: rgba(255, 255, 255, 0.849);
+  background-color: rgba(255, 255, 255, 0.973);
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -164,7 +164,7 @@ a {
   background-color: transparent;
 }
 a:hover {
-  color: #0cd659;
+  color: #70a9b1;
   text-decoration: underline;
 }
 
@@ -213,7 +213,7 @@ table {
 caption {
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
-  color: #6c7b7d;
+  color: #5eddd7;
   text-align: left;
   caption-side: bottom;
 }
@@ -423,7 +423,7 @@ hr {
   margin-top: 1rem;
   margin-bottom: 1rem;
   border: 0;
-  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  border-top: 1px solid rgba(181, 199, 81, 0.1);
 }
 
 small,
@@ -435,7 +435,7 @@ small,
 mark,
 .mark {
   padding: 0.2em;
-  background-color: #fcf8e3;
+  background-color: #aac47c;
 }
 
 .list-unstyled {
@@ -468,7 +468,7 @@ mark,
 .blockquote-footer {
   display: block;
   font-size: 80%;
-  color: #6c7d79;
+  color: #7cccb9;
 }
 .blockquote-footer::before {
   content: "— ";
@@ -499,12 +499,12 @@ mark,
 
 .figure-caption {
   font-size: 90%;
-  color: #6c757da4;
+  color: #7fb8eba4;
 }
 
 code {
   font-size: 87.5%;
-  color: #e83e8c;
+  color: #be7e9c;
   word-wrap: break-word;
 }
 a > code {
@@ -514,8 +514,8 @@ a > code {
 kbd {
   padding: 0.2rem 0.4rem;
   font-size: 87.5%;
-  color: rgba(255, 255, 255, 0.788);
-  background-color: #212529;
+  color: rgba(141, 209, 214, 0.788);
+  background-color: #a9af58;
   border-radius: 0.2rem;
 }
 kbd kbd {
@@ -527,7 +527,7 @@ kbd kbd {
 pre {
   display: block;
   font-size: 87.5%;
-  color: #212928;
+  color: #67c4b7;
 }
 pre code {
   font-size: inherit;
@@ -1655,7 +1655,7 @@ pre code {
 .table {
   width: 100%;
   margin-bottom: 1rem;
-  color: #212529;
+  color: #82b3e4;
 }
 .table th,
 .table td {
@@ -1717,7 +1717,7 @@ pre code {
 }
 
 .table-hover .table-primary:hover {
-  background-color: #fbc0b0;
+  background-color: #b0fbe4;
 }
 .table-hover .table-primary:hover > td,
 .table-hover .table-primary:hover > th {
