@@ -64,9 +64,9 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #d6e6e6;
+  color: #e8eb4c;
   text-align: left;
-  background-color: rgba(181, 185, 185, 0.993);
+  background-color: rgba(205, 229, 182, 0.993);
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -159,7 +159,7 @@ sup {
 }
 
 a {
-  color: #4e5152;
+  color: #71f8f8;
   text-decoration: none;
   background-color: transparent;
 }
